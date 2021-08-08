@@ -1,5 +1,5 @@
 # BERT-CQA
-Building BERT-based QA System from CQA Dataset: Detecting Gender Bias
+Building a BERT-based QA System from a CQA Dataset: Detecting Gender Bias
 
 ## Data Description
 
