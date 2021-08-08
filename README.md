@@ -9,5 +9,5 @@ Building BERT-based QA System from CQA Dataset: Detecting Gender Bias
 
 ## Output of the Experiments
 
-- [Sample Question Answering Results](output/rsample_QA_results.csv)
+- [Sample Question Answering Results](output/sample_QA_results.csv)
 - [Bias in Gender Distrbutions](output/gender_distribution.csv)
