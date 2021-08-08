@@ -1,9 +1,5 @@
 # BERT-CQA
-Building BERT-based QA System from CQA Dataset: Assessing Gender Bias
-
-## The Classifier-Retriever Pipeline
-- The BERT-based question classifier built by fine-tuning the pre-trained [BERT model](https://huggingface.co/bert-base-uncased) using QA dataset.
-- The answer retriever built by using the [BERT-based semantic similarity algorithm](https://huggingface.co/sentence-transformers/bert-base-nli-stsb-mean-tokens).
+Building BERT-based QA System from CQA Dataset: Detecting Gender Bias
 
 ## Data Description
 
